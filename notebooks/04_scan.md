@@ -1,0 +1,1 @@
+To automatize the scanning of tags, special scripts were developed. They could be found in the folder [../scripts](../scripts) or in [../data/04_scan](../data/04_scan)
